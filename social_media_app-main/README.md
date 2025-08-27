@@ -727,10 +727,6 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-Assets used in the project are [here](https://drive.google.com/file/d/13_7FofRAC3wARqPtAVPi53QNJJRd5RH_/view?usp=sharing)
-
 ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js 14 Pro Course**
